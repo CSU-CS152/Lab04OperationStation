@@ -7,7 +7,7 @@ Review the code provided. Answer the following questions by adding comments to y
 # Step One
 1. What is howManyEven() doing? What is the output for howManyEven(9)?
 2. What does isOdd(3) return? Why?
-3. Recall the factorial code from the previous lab. Rewrite the factorial code using our new -=, +=, *=, /= (etc) operators.
+3. Recall the factorial code from the previous lab. Rewrite the corrected factorial code using our new -=, +=, *=, /= (etc) operators.
 4. How can we rewrite n = int(¾) using //?
 
 # Step 2 -- Coding noChange(cents)
