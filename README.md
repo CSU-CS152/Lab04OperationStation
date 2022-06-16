@@ -4,32 +4,32 @@ Operations Warmup Lab
 # Attached is some code
 Review the code provided. Answer the following questions by adding comments to your code! You are free to talk with other students, and seek better understanding to these questions. See below for reminders on types, variables, and input
 
-# Step 1
+# Step One
 Answer the following questions as comments in your code:
 1. What is howManyEven() doing? What is the output for howManyEven(9)?
 2. What does isOdd(3) return? Why?
 3. Recall the factorial code from the previous lab. Rewrite the corrected factorial code using our new -=, +=, *=, /= (etc) operators.
 4. How can we rewrite n = int(¾) using // to make the output look the same?
 
-# Step 2 -- Coding noChange(cents)
+# Step Two -- Coding noChange(cents)
 You are someone who hates carrying around loose change. 
-Write noChange(cents) such that it takes in some amount of cents and rounds it to whole dollars, ignoring all remaining change. 
+Write `noChange(cents)` such that it takes in some amount of cents and rounds it to whole dollars, ignoring all remaining change. 
 ```
 If it rounds evenly already, print “Hoorah!” before returning the whole dollars. 
 If it does not, print “Keep the change!” before returning the whole dollars.
 ```
 
 For example,
-```
+```python
 noChange(100) # the output should print "Hoorah!" and return 1
 noChange(225) # the output should print "Keep the change!" and return 2
 ```
 
-# Step 3: Test noChange(cents)
+# Step Three: Test noChange(cents)
 How do you test code? You simply add the lines to your python file (in the future, you will have test lines in separate files).
 
 As such, we would recommend adding the following just above def main().
-```
+```python
 print("TESTING", noChange(100)) 
 print("TESTING", noChange(225)) 
 ```
