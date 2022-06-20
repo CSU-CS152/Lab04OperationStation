@@ -46,3 +46,4 @@ This means that x += 3 really means x = x + 3. These are essentially just short 
 % and // are sort of opposites. Both do division on the numbers to the left and right of them. 
 However, % will get the remainder of that division (Ex. 7 % 3 = 1).
 // gets the whole number of the divison, or the number on the left side of the decimal (Ex. 7 // 3 = 2).
+
