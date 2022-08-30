@@ -5,7 +5,7 @@ Operations Warmup Lab
 Review the code provided. Answer the following questions by adding comments to your code! You are free to talk with other students, and seek better understanding to these questions. See below for reminders on types, variables, and input
 
 # Step One
-Answer the following questions as comments in your code:
+Complete the following questions in the comments at the top of your code. If your answer is multiple lines, use these: \``` around your answer:
 1. What is howManyEven() doing? What is the output for howManyEven(9)?
 2. What does isOdd(3) return? Why?
 3. Recall the factorial code from the previous lab. Rewrite the corrected factorial code using our new -=, +=, *=, /= (etc) operators.
