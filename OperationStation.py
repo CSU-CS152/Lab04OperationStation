@@ -45,3 +45,6 @@ def main():
     print(howManyEven(9))
     print(isOdd(12))
     print(isEven(12))
+    
+if __name__ == "__main__":
+    main()
